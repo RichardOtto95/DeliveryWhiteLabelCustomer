@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "white-label-cca4f"
+  },
+  "targets": {
+    "white-label-cca4f": {
+      "hosting": {
+        "deliverycustomerwhitelabel": [
+          "deliverycustomer"
+        ]
+      }
+    }
+  }
+}
